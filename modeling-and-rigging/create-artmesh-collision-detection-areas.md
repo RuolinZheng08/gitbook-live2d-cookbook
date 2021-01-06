@@ -1,2 +1,2 @@
-# Create Artmesh Collision Detection Areas
+# Create ArtMesh Collision Detection Areas
 

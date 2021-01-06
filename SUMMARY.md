@@ -9,11 +9,11 @@
 
 ## Modeling and Rigging
 
+* [Basic Workflow](modeling-and-rigging/basic-workflow.md)
 * [Deformer Hierarchy](modeling-and-rigging/deformer-hierarchy.md)
-* [Set up Model to Follow Cursor](modeling-and-rigging/set-up-model-to-follow-cursor.md)
-* [Create Artmesh Collision Detection Areas](modeling-and-rigging/create-artmesh-collision-detection-areas.md)
+* [Set Up Model to Follow Cursor](modeling-and-rigging/set-up-model-to-follow-cursor.md)
+* [Create ArtMesh Collision Detection Areas](modeling-and-rigging/create-artmesh-collision-detection-areas.md)
 * [Add Lip-Sync](modeling-and-rigging/add-lip-sync.md)
-* [Learning Resources](modeling-and-rigging/learning-resources.md)
 
 ## Web SDK
 
