@@ -50,6 +50,7 @@ Hence the above expands to:
 ## Miscellaneous Notes about Deformers
 
 * Deformers won't be effective without an Artmesh.
-* To adjust the deformer without affecting the old down the command key on Mac and 
+* To adjust the deformer without affecting the parts they contain,  hold down the command key on Mac, and make adjustments \(resizing, moving, rotating\) to the deformer.
+* Freeze rotation on a rotation deformer once you have set the initial angle of the deformer.
 * Use a square \(2x2, 3x3\) Beizer division warp deformer for square body parts like eyes or face; Use a 3x2 one for wide ones like front bangs; Use a 2x3 one for long ones like long side bangs or long back hair.
-* 
+
