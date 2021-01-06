@@ -18,8 +18,5 @@
 ## Web SDK
 
 * [Play Audio Natively in the Browser](web-sdk/play-audio-natively-in-the-browser.md)
-
----
-
-* [Deploy to Heroku](deploy-to-heroku.md)
+* [Deploy to Heroku](web-sdk/deploy-to-heroku.md)
 
